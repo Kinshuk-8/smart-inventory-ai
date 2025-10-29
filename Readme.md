@@ -38,4 +38,7 @@ An **AI-powered inventory management system** designed to help businesses effici
 
 ---
 
-## 🗂️ Folder Structure
+### To run
+
+npm install
+npm run dev
